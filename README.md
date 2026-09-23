@@ -1,5 +1,4 @@
-# Online 3D Openpose Editor [[中文版](README-zh.md)] [[日本語版](README-ja.md)]
-# [Click me to get editor](https://zhuyu1997.github.io/open-pose-editor/)
+
 # Preview
 https://user-images.githubusercontent.com/18410894/224073965-c782a05f-0a20-41cf-863d-8de490021ed7.mp4
 # Installation as a WebUI extension
@@ -39,6 +38,3 @@ https://user-images.githubusercontent.com/18410894/224073965-c782a05f-0a20-41cf-
 - **Switch to Move Mode**: Press the X key to switch to move mode, allowing you to move the entire body.
 - **Delete Body**: Press the D key to delete the entire body.
 # Contact
-Email: 891085309@qq.com
-
-[Tencent QQ Group](https://jq.qq.com/?_wv=1027&k=N6j4nigd)：272950545
